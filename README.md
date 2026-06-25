@@ -199,17 +199,7 @@ More broadly, these results reinforce concerns that performance metrics may fail
 
 ## Visualizations
 
-### Mental Health Risk by Performance Group
-
-![Mental Health Risk by Performance Group](assets/performance_vs_risk.png)
-
-### Distribution of Mental Health Indicators
-
-![Mental Health Indicators](assets/mental_health_distribution.png)
-
-### Performance vs Well-Being Misalignment
-
-![Misalignment Analysis](assets/misalignment_rate.png)
+![Academic Performance and Mental Health Risk](/visuals.png)
 
 ---
 
